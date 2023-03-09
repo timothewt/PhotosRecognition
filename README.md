@@ -1,4 +1,4 @@
-# Bird_Pictures_Recognition
+# Bird Pictures Recognition
 
 ### Description
 This project retrieves thousands of photos of Eastern Bluebird and random photos. Then, a Convolutional Neural Network is used to determine if a photo is a bird photo.
